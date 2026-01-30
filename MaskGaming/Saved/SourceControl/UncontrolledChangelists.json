@@ -27,6 +27,9 @@
 				"D:/MaskGame/MaskGaming/Content/Inputs/IMC_Default.uasset",
 				"D:/MaskGame/MaskGaming/Content/Whisper/EnemyBuild/BT_Whisper.uasset",
 				"D:/MaskGame/MaskGaming/Content/Whisper/EnemyBuild/Tasks/BTTask_MoveRandomLocation.uasset",
+				"D:/MaskGame/MaskGaming/Content/Whisper/EnemyBuild/BB_Whisper.uasset",
+				"D:/MaskGame/MaskGaming/Content/Whisper/Animations/Anim_Whisper_Taking_Damage1_Montage.uasset",
+				"D:/MaskGame/MaskGaming/Content/Whisper/Animations/Anim_Whisper_Taking_Damage2_Montage.uasset",
 				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_MoveForward.uasset"
 			]
 		}

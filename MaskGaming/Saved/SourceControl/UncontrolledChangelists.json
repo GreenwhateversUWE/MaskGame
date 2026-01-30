@@ -9,13 +9,14 @@
 				"D:/MaskGaming/MaskGaming/Content/Scenes/L_DevLevel.umap",
 				"D:/MaskGaming/MaskGaming/Content/PlayerBPs/BP_Player.uasset",
 				"D:/MaskGaming/MaskGaming/Content/PlayerBPs/GM_Gamemode.uasset",
-				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_MoveForward.uasset",
 				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_Move.uasset",
 				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_Look.uasset",
 				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_Jump.uasset",
 				"D:/MaskGaming/MaskGaming/Content/Inputs/IMC_Default.uasset",
 				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_Sneak.uasset",
-				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_Sprint.uasset"
+				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_Sprint.uasset",
+				"D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Player.uasset",
+				"D:/MaskGaming/MaskGaming/Content/Inputs/InputActions/IA_MoveForward.uasset"
 			]
 		}
 	]

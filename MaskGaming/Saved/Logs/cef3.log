@@ -149,3 +149,4 @@
 [0131/091614.247:WARNING:storage_block-inl.h(146)] Failed data load.
 [0131/091614.248:ERROR:entry_impl.cc(998)] Failed to save user data
 [0131/091813.008:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0131/093250.617:ERROR:entry_impl.cc(1075)] No file for 80000012

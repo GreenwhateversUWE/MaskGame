@@ -4035,3 +4035,44 @@ Script call stack:
 [2026.01.31-19.02.02:980][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.31-19.02.02:980][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.31-19.02.02:980][912]AssetCheck: /Game/PuzzlesAndObjects/BP_Reciever Validating asset
+[2026.01.31-19.02.58:045][255]LogFab: Display: Asset Type = unreal-engine
+[2026.01.31-19.02.58:045][255]LogFab: Display: Is Quixel = 0
+[2026.01.31-19.02.58:045][255]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/Fleshand3f26680be31aV1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Fleshand3f26680be31aV1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Fleshand3f26680be31aV1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Fleshand3f26680be31aV1/CloudDir
+[2026.01.31-19.03.17:039][670]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.31-19.03.17:046][670]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.31-19.03.17:906][726]LogSlate: Window 'Fab' being destroyed
+[2026.01.31-19.03.17:915][726]LogSlate: Window 'Fab' being destroyed
+[2026.01.31-19.03.19:679][820]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.01.31-19.03.19:679][820]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/193ddebd-e802-424f-a048-eb792e93ba12.
+[2026.01.31-19.03.27:145][843]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.01.31-19.03.29:496][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.31-19.03.29:500][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-19.03.29:552][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level1" FILE="D:/MaskGame/MaskGaming/Content/Scenes/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.31-19.03.29:581][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.31-19.03.29:590][ 18]LogSavePackage: Moving output files for package: /Game/Scenes/Level1
+[2026.01.31-19.03.29:591][ 18]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/Level1E07D72024FBE1C61AB0D6B8C0D76EBA4.tmp' to 'D:/MaskGame/MaskGaming/Content/Scenes/Level1.umap'
+[2026.01.31-19.03.29:603][ 18]LogFileHelpers: Saving map 'Level1' took 0.052
+[2026.01.31-19.03.29:603][ 18]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerBPs/BP_Spawn] ([2] browsable assets)...
+[2026.01.31-19.03.29:603][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_Spawn]
+[2026.01.31-19.03.29:603][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_Spawn" FILE="D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Spawn.uasset" SILENT=true
+[2026.01.31-19.03.29:607][ 18]LogSavePackage: Moving output files for package: /Game/PlayerBPs/BP_Spawn
+[2026.01.31-19.03.29:609][ 18]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_Spawn5F66CA334BA73A2FC20F4CB2514C1487.tmp' to 'D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Spawn.uasset'
+[2026.01.31-19.03.29:610][ 18]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PuzzlesAndObjects/BP_Chest] ([2] browsable assets)...
+[2026.01.31-19.03.29:640][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzlesAndObjects/BP_Chest.BP_Chest]
+[2026.01.31-19.03.29:640][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzlesAndObjects/BP_Chest]
+[2026.01.31-19.03.29:640][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzlesAndObjects/BP_Chest" FILE="D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_Chest.uasset" SILENT=true
+[2026.01.31-19.03.29:642][ 18]LogSavePackage: Moving output files for package: /Game/PuzzlesAndObjects/BP_Chest
+[2026.01.31-19.03.29:643][ 18]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_Chest023470934137E4511C12DEA142C64ED0.tmp' to 'D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_Chest.uasset'
+[2026.01.31-19.03.29:652][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.104 ms (total: 1.42 sec)
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: Enabled validators:
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-19.03.29:700][ 18]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-19.03.29:700][ 18]AssetCheck: /Game/Scenes/Level1 Validating asset
+[2026.01.31-19.03.29:700][ 18]AssetCheck: /Game/PlayerBPs/BP_Spawn Validating asset
+[2026.01.31-19.03.29:700][ 18]AssetCheck: /Game/PuzzlesAndObjects/BP_Chest Validating asset
+[2026.01.31-19.03.30:326][ 79]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.

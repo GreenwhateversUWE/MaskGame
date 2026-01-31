@@ -1,5 +1,13 @@
-[0131/182858.230:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0131/182858.910:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0131/182859.326:WARNING:storage_block-inl.h(146)] Failed data load.
-[0131/182859.815:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0131/183100.390:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0131/195046.679:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0131/195047.330:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0131/195047.543:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/195048.261:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0131/195149.346:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0131/195149.458:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0131/195247.156:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

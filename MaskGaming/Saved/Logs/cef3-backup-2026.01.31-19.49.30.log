@@ -1,0 +1,16 @@
+[0131/182858.230:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0131/182858.910:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0131/182859.326:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/182859.815:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0131/183100.390:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0131/194930.150:ERROR:entry_impl.cc(1075)] No file for 80000003
+[0131/194930.230:ERROR:entry_impl.cc(1075)] No file for 80000010
+[0131/194930.246:ERROR:entry_impl.cc(1075)] No file for 8000000c
+[0131/194930.249:ERROR:entry_impl.cc(1075)] No file for 80000011
+[0131/194930.250:ERROR:entry_impl.cc(1075)] No file for 80000004
+[0131/194930.251:ERROR:entry_impl.cc(1075)] No file for 80000002
+[0131/194930.255:ERROR:entry_impl.cc(1075)] No file for 80000001
+[0131/194930.256:ERROR:entry_impl.cc(1075)] No file for 80000005
+[0131/194930.256:ERROR:entry_impl.cc(1075)] No file for 8000000e
+[0131/194930.256:ERROR:entry_impl.cc(1075)] No file for 8000000f
+[0131/194930.260:ERROR:entry_impl.cc(1075)] No file for 80000006

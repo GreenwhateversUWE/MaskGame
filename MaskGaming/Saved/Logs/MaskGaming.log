@@ -5205,3 +5205,11 @@ Sampler Limit: 32
 [2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.31-09.15.24:986][136]AssetCheck: /Game/Scenes/TestLevel Validating asset
 [2026.01.31-09.15.24:986][136]AssetCheck: /Game/Fab/Medevial_Chest/ChestBottomText Validating asset
+[2026.01.31-09.15.38:757][454]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.01.31-09.15.38:765][454]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 52 assets. Are you sure you want to continue?
+[2026.01.31-09.15.38:820][454]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.31-09.15.38:939][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.01.31-09.15.41:944][454]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.31-09.15.42:128][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.31-09.15.42:142][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.31-09.15.42:156][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms

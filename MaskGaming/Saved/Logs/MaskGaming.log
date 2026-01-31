@@ -3948,3 +3948,90 @@ Script call stack:
 [2026.01.31-18.59.04:799][335]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446743141701748720
 [2026.01.31-18.59.04:799][335]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
 [2026.01.31-18.59.04:804][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-18.59.13:628][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.31-18.59.13:632][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level1" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Scenes/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.31-18.59.13:664][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/Level1_Auto1
+[2026.01.31-18.59.13:665][521]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/Level1_Auto137EF3ED24AF17B427134F68A65384823.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Scenes/Level1_Auto1.umap'
+[2026.01.31-18.59.13:667][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Level1' took 0.049
+[2026.01.31-18.59.13:667][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2026.01.31-18.59.13:668][521]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerBPs/BP_Spawn] ([2] browsable assets)...
+[2026.01.31-18.59.13:754][521]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerBPs/BP_Spawn.BP_Spawn]
+[2026.01.31-18.59.13:754][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_Spawn]
+[2026.01.31-18.59.13:754][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_Spawn" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/BP_Spawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.01.31-18.59.13:760][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerBPs/BP_Spawn_Auto1
+[2026.01.31-18.59.13:760][521]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_Spawn_Auto107A292BF4DD6F39FB38B8A906B6C2514.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/BP_Spawn_Auto1.uasset'
+[2026.01.31-18.59.13:762][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerBPs/BP_Player] ([2] browsable assets)...
+[2026.01.31-18.59.13:762][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_Player]
+[2026.01.31-18.59.13:762][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_Player" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.01.31-18.59.13:803][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerBPs/BP_Player_Auto1
+[2026.01.31-18.59.13:804][521]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_Player_Auto13C74211B455EFBE5E90D93A56F93EC99.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/BP_Player_Auto1.uasset'
+[2026.01.31-18.59.13:815][521]LogFileHelpers: Auto-saving content packages took 0.148
+[2026.01.31-18.59.41:392][495]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.31-18.59.41:400][495]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.31-18.59.41:410][495]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.31-18.59.41:429][496]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.31-18.59.44:529][724]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Reciever
+[2026.01.31-18.59.44:534][724]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.31-18.59.46:116][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzlesAndObjects/BP_Reciever.BP_Reciever
+[2026.01.31-18.59.46:116][836]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.31-18.59.55:709][471]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.31-18.59.55:780][471]LogTexture: Display: Building textures: /Game/Basic_VFX/Niagara/NS_Basic_1.NS_Basic_1:Fountain002.Texture2D_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.01.31-18.59.55:780][471]LogTexture: Display: Building textures: /Game/Basic_VFX/Niagara/NS_Basic_1.NS_Basic_1:Fountain008_9.Texture2D_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.01.31-18.59.55:780][471]LogTexture: Display: Building textures: /Game/Basic_VFX/Niagara/NS_Basic_1.NS_Basic_1:Fountain004_5.Texture2D_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.01.31-18.59.55:782][471]LogTexture: Display: Building textures: /Game/Basic_VFX/Niagara/NS_Basic_1.NS_Basic_1:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.01.31-18.59.55:782][471]LogTexture: Display: Building textures: /Game/Basic_VFX/Niagara/NS_Basic_1.NS_Basic_1:Fountain006_7.Texture2D_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.01.31-19.01.04:435][404]LogSlate: Took 0.003505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.31-19.01.19:630][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzlesAndObjects/BP_ActivatedObject.BP_ActivatedObject
+[2026.01.31-19.01.19:630][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.31-19.01.35:541][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzlesAndObjects/BP_Chest.BP_Chest
+[2026.01.31-19.01.35:542][750]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.31-19.01.48:493][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.31-19.01.48:893][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-19.01.48:961][818]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzlesAndObjects/BP_Reciever] ([2] browsable assets)...
+[2026.01.31-19.01.48:961][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzlesAndObjects/BP_Reciever]
+[2026.01.31-19.01.48:961][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzlesAndObjects/BP_Reciever" FILE="D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_Reciever.uasset" SILENT=true
+[2026.01.31-19.01.48:964][818]LogSavePackage: Moving output files for package: /Game/PuzzlesAndObjects/BP_Reciever
+[2026.01.31-19.01.48:964][818]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_RecieverCDAE7B6542E69A4A822CD4B421B4AD31.tmp' to 'D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_Reciever.uasset'
+[2026.01.31-19.01.48:974][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.999 ms (total: 1.08 sec)
+[2026.01.31-19.01.49:027][818]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-19.01.49:027][818]LogContentValidation: Enabled validators:
+[2026.01.31-19.01.49:027][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-19.01.49:027][818]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-19.01.49:027][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-19.01.49:027][818]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-19.01.49:027][818]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-19.01.49:027][818]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-19.01.49:027][818]AssetCheck: /Game/PuzzlesAndObjects/BP_Reciever Validating asset
+[2026.01.31-19.01.50:077][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-19.01.50:127][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerBPs/BP_Player] ([2] browsable assets)...
+[2026.01.31-19.01.50:127][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/BP_Player]
+[2026.01.31-19.01.50:127][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/BP_Player" FILE="D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Player.uasset" SILENT=true
+[2026.01.31-19.01.50:172][901]LogSavePackage: Moving output files for package: /Game/PlayerBPs/BP_Player
+[2026.01.31-19.01.50:172][901]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_Player742EFE6E4908B4EBB97F539385C4A7F1.tmp' to 'D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Player.uasset'
+[2026.01.31-19.01.50:181][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.585 ms (total: 1.19 sec)
+[2026.01.31-19.01.50:226][901]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-19.01.50:226][901]LogContentValidation: Enabled validators:
+[2026.01.31-19.01.50:226][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-19.01.50:226][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-19.01.50:226][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-19.01.50:226][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-19.01.50:226][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-19.01.50:226][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-19.01.50:227][901]AssetCheck: /Game/PlayerBPs/BP_Player Validating asset
+[2026.01.31-19.02.01:890][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.31-19.02.02:843][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-19.02.02:912][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzlesAndObjects/BP_Reciever] ([2] browsable assets)...
+[2026.01.31-19.02.02:912][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzlesAndObjects/BP_Reciever]
+[2026.01.31-19.02.02:912][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzlesAndObjects/BP_Reciever" FILE="D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_Reciever.uasset" SILENT=true
+[2026.01.31-19.02.02:916][912]LogSavePackage: Moving output files for package: /Game/PuzzlesAndObjects/BP_Reciever
+[2026.01.31-19.02.02:917][912]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/BP_RecieverAE9B1FA54F10D0D6D21791B54D553440.tmp' to 'D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_Reciever.uasset'
+[2026.01.31-19.02.02:925][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.757 ms (total: 1.27 sec)
+[2026.01.31-19.02.02:979][912]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.31-19.02.02:979][912]LogContentValidation: Enabled validators:
+[2026.01.31-19.02.02:979][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-19.02.02:979][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-19.02.02:979][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-19.02.02:979][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-19.02.02:980][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-19.02.02:980][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-19.02.02:980][912]AssetCheck: /Game/PuzzlesAndObjects/BP_Reciever Validating asset

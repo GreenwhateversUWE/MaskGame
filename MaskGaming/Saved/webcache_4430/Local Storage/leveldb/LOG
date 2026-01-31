@@ -1,3 +1,2 @@
-2026/01/31-09:16:12.402 434c Reusing MANIFEST D:/MaskGame/MaskGaming/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/01/31-09:16:12.406 434c Recovering log #3
-2026/01/31-09:16:12.407 434c Reusing old log D:/MaskGame/MaskGaming/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/01/31-14:08:58.352 1df00 Creating DB D:/MaskGame/MaskGaming/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/01/31-14:08:58.367 1df00 Reusing MANIFEST D:/MaskGame/MaskGaming/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001

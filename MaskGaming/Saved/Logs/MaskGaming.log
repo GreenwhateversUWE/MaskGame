@@ -1141,3 +1141,246 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.31-18.28.42:985][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
 [2026.01.31-18.28.42:998][  0]LogMetaSound: MetaSound Engine Initialized
 [2026.01.31-18.28.43:433][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2026.01.31-18.28.46:496][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.01.31-18.28.46:496][  0]LogNNERuntimeORT: 0: Intel(R) UHD Graphics 770 (Compute, Graphics)
+[2026.01.31-18.28.46:496][  0]LogNNERuntimeORT: 1: NVIDIA GeForce RTX 4070 (Compute, Graphics)
+[2026.01.31-18.28.46:496][  0]LogNNERuntimeORT: 2: Microsoft Basic Render Driver (Compute, Graphics)
+[2026.01.31-18.28.46:496][  0]LogNNERuntimeORT: No NPU adapter found!
+[2026.01.31-18.28.46:813][  0]SourceControl: Revision control is disabled
+[2026.01.31-18.28.46:846][  0]SourceControl: Revision control is disabled
+[2026.01.31-18.28.47:569][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.01.31-18.28.47:623][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.01.31-18.28.47:623][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.01.31-18.28.47:822][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2026.01.31-18.28.47:824][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2026.01.31-18.28.47:826][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2026.01.31-18.28.47:832][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2026.01.31-18.28.47:834][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2026.01.31-18.28.47:836][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2026.01.31-18.28.47:840][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2026.01.31-18.28.47:842][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2026.01.31-18.28.47:845][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2026.01.31-18.28.47:850][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2026.01.31-18.28.47:854][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2026.01.31-18.28.47:856][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2026.01.31-18.28.47:857][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2026.01.31-18.28.47:859][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2026.01.31-18.28.47:862][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2026.01.31-18.28.47:863][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2026.01.31-18.28.47:865][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2026.01.31-18.28.47:866][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2026.01.31-18.28.47:868][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2026.01.31-18.28.47:872][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2026.01.31-18.28.47:874][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2026.01.31-18.28.47:876][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2026.01.31-18.28.47:878][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2026.01.31-18.28.47:879][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2026.01.31-18.28.47:886][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2026.01.31-18.28.47:889][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2026.01.31-18.28.47:891][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2026.01.31-18.28.47:894][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2026.01.31-18.28.47:901][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2026.01.31-18.28.47:906][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2026.01.31-18.28.47:908][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2026.01.31-18.28.47:910][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2026.01.31-18.28.47:914][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2026.01.31-18.28.47:915][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2026.01.31-18.28.47:918][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2026.01.31-18.28.47:990][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 0.81ms
+[2026.01.31-18.28.48:194][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2026.01.31-18.28.48:194][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2026.01.31-18.28.48:325][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 0.86ms
+[2026.01.31-18.28.48:469][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.01.31-18.28.48:551][  0]LogCollectionManager: Loaded 0 collections in 0.002228 seconds
+[2026.01.31-18.28.48:554][  0]LogFileCache: Scanning file cache for directory 'D:/MaskGame/MaskGaming/Saved/Collections/' took 0.00s
+[2026.01.31-18.28.48:558][  0]LogFileCache: Scanning file cache for directory 'D:/MaskGame/MaskGaming/Content/Developers/D4mckenzie/Collections/' took 0.00s
+[2026.01.31-18.28.48:560][  0]LogFileCache: Scanning file cache for directory 'D:/MaskGame/MaskGaming/Content/Collections/' took 0.00s
+[2026.01.31-18.28.48:627][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2026.01.31-18.28.48:627][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2026.01.31-18.28.48:643][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.01.31-18.28.48:643][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2026.01.31-18.28.48:643][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.01.31-18.28.48:643][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2026.01.31-18.28.48:930][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2026.01.31-18.28.48:930][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2026.01.31-18.28.48:947][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-39599718 booting at 2026-01-31T18:28:48.947Z using C
+[2026.01.31-18.28.48:948][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.7309.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=MaskGaming, ProductVersion=++UE5+Release-5.5-CL-40574608, IsServer=false, Flags=DisableOverlay]
+[2026.01.31-18.28.48:948][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.01.31-18.28.48:948][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.01.31-18.28.48:953][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.01.31-18.28.48:953][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.01.31-18.28.48:953][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.01.31-18.28.48:953][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000052
+[2026.01.31-18.28.48:953][  0]LogFab: Display: Logging in using persist
+[2026.01.31-18.28.48:954][  0]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2026.01.31-18.28.48:992][  0]LogUObjectArray: 43612 objects as part of root set at end of initial load.
+[2026.01.31-18.28.48:992][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.01.31-18.28.49:000][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36295 public script object entries (984.23 KB)
+[2026.01.31-18.28.49:000][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2026.01.31-18.28.49:105][  0]LogEngine: Initializing Engine...
+[2026.01.31-18.28.49:108][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2026.01.31-18.28.49:109][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.01.31-18.28.49:240][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.01.31-18.28.49:268][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.01.31-18.28.49:280][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.01.31-18.28.49:280][  0]LogInit: Texture streaming: Enabled
+[2026.01.31-18.28.49:330][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2026.01.31-18.28.49:346][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.01.31-18.28.49:375][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.01.31-18.28.49:375][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.01.31-18.28.49:376][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.01.31-18.28.49:376][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.31-18.28.49:376][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.31-18.28.49:376][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.31-18.28.49:376][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.31-18.28.49:376][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.31-18.28.49:376][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.31-18.28.49:413][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.31-18.28.49:553][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BT-01)
+[2026.01.31-18.28.49:553][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.31-18.28.49:557][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.31-18.28.49:557][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.31-18.28.49:558][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.31-18.28.49:558][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.31-18.28.49:560][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.31-18.28.49:560][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.01.31-18.28.49:560][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.01.31-18.28.49:560][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.01.31-18.28.49:560][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.01.31-18.28.49:571][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.01.31-18.28.49:582][  0]LogInit: Undo buffer set to 256 MB
+[2026.01.31-18.28.49:582][  0]LogInit: Transaction tracking system initialized
+[2026.01.31-18.28.49:612][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded D:/MaskGame/MaskGaming/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.31-18.28.49:767][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 1.01ms
+[2026.01.31-18.28.49:771][  0]LocalizationService: Localization service is disabled
+[2026.01.31-18.28.49:800][  0]LogTimingProfiler: Initialize
+[2026.01.31-18.28.49:800][  0]LogTimingProfiler: OnSessionChanged
+[2026.01.31-18.28.49:800][  0]LoadingProfiler: Initialize
+[2026.01.31-18.28.49:800][  0]LoadingProfiler: OnSessionChanged
+[2026.01.31-18.28.49:800][  0]LogNetworkingProfiler: Initialize
+[2026.01.31-18.28.49:800][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.01.31-18.28.49:800][  0]LogMemoryProfiler: Initialize
+[2026.01.31-18.28.49:800][  0]LogMemoryProfiler: OnSessionChanged
+[2026.01.31-18.28.50:157][  0]LogFileCache: Scanning file cache for directory 'D:/MaskGame/MaskGaming/Content/' took 0.04s
+[2026.01.31-18.28.50:179][  0]LogPython: Using Python 3.11.8
+[2026.01.31-18.28.50:887][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2026.01.31-18.28.50:917][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (1 permutations).
+[2026.01.31-18.28.51:013][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2026.01.31-18.28.51:013][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2026.01.31-18.28.51:131][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.01.31-18.28.51:248][  0]LogEditorDataStorage: Initializing
+[2026.01.31-18.28.51:249][  0]LogEditorDataStorage: Initialized
+[2026.01.31-18.28.51:250][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.01.31-18.28.51:281][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.01.31-18.28.51:283][  0]SourceControl: Revision control is disabled
+[2026.01.31-18.28.51:283][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.294
+[2026.01.31-18.28.51:283][  0]Cmd: MAP LOAD FILE="D:/MaskGame/MaskGaming/Content/Scenes/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.31-18.28.51:288][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-18.28.51:288][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-18.28.51:293][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.31-18.28.51:294][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.31-18.28.51:295][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Scenes/TestLevel (0x3A9147F5E8A2D049) /Game/Scenes/TestLevel (0x3A9147F5E8A2D049) - Skipping non mounted imported package /Game/Fab/StoneFloor/StoneFloor (0x4AB2FFC95F61B3BD)
+[2026.01.31-18.28.51:721][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2026.01.31-18.28.51:721][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.01.31-18.28.51:727][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.31-18.28.51:737][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.31-18.28.51:737][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.31-18.28.51:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.045ms to complete.
+[2026.01.31-18.28.51:745][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.757
+[2026.01.31-18.28.51:883][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.31-18.28.51:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-18.28.51:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-18.28.52:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-18.28.52:036][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.31-18.28.52:090][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:091][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:092][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:093][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:093][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:094][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:094][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:097][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:097][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:098][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:098][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:099][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:099][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:101][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:101][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:102][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:102][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:105][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:105][  0]LogPakFile: Initializing PakPlatformFile
+[2026.01.31-18.28.52:106][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.01.31-18.28.52:311][  0]LogTurnkeySupport: Turnkey Device: Win64@STU-CZC41774S7: (Name=STU-CZC41774S7, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26100.0, Flags="Device_InstallSoftwareValid")
+[2026.01.31-18.28.52:315][  0]LogAssetRegistry: Display: Asset registry cache written as 36.8 MiB to D:/MaskGame/MaskGaming/Intermediate/CachedAssetRegistry_*.bin
+[2026.01.31-18.28.52:351][  0]LogSlate: Took 0.000884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.01.31-18.28.52:353][  0]LogSlate: Took 0.000827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.01.31-18.28.52:354][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.01.31-18.28.52:394][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2026.01.31-18.28.52:401][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2026.01.31-18.28.52:401][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2026.01.31-18.28.52:401][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2026.01.31-18.28.52:439][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2026.01.31-18.28.52:439][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2026.01.31-18.28.52:442][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2026.01.31-18.28.52:443][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2026.01.31-18.28.52:443][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2026.01.31-18.28.52:472][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2026.01.31-18.28.52:472][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2026.01.31-18.28.52:697][  0]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 121.44 ms. Compile time 20.45 ms, link time 100.92 ms.
+[2026.01.31-18.28.52:810][  0]LogStall: Startup...
+[2026.01.31-18.28.52:812][  0]LogStall: Startup complete.
+[2026.01.31-18.28.52:821][  0]LogLoad: (Engine Initialization) Total time: 20.83 seconds
+[2026.01.31-18.28.52:958][  0]LogAssetRegistry: AssetRegistryGather time 0.1005s: AssetDataDiscovery 0.0471s, AssetDataGather 0.0102s, StoreResults 0.0432s. Wall time 12.2490s.
+	NumCachedDirectories 0. NumUncachedDirectories 1569. NumCachedFiles 7661. NumUncachedFiles 1.
+	BackgroundTickInterruptions 0.
+[2026.01.31-18.28.52:974][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2026.01.31-18.28.52:974][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.01.31-18.28.52:976][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.01.31-18.28.52:976][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.01.31-18.28.53:012][  0]LogAutomationController: Ignoring very large delta of 16901497.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.31-18.28.53:012][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-18.28.53:014][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2026.01.31-18.28.53:014][  0]LogFab: Display: Logging in using exchange code
+[2026.01.31-18.28.53:014][  0]LogFab: Display: Reading exchange code from commandline
+[2026.01.31-18.28.53:014][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2026.01.31-18.28.53:014][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.01.31-18.28.53:067][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.01.31-18.28.53:076][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 62.455 ms
+[2026.01.31-18.28.53:076][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath D:/MaskGame/MaskGaming/Content/Fab/StoneFloor/StoneFloor which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.01.31-18.28.53:076][  0]LoadErrors: Warning: While trying to load package /Game/Scenes/TestLevel, a dependent package /Game/Fab/StoneFloor/StoneFloor was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/StoneFloor/StoneFloor has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/MaskGame/MaskGaming/Content/Fab/StoneFloor/StoneFloor.uasset'. Perhaps it has been deleted or was not synced?
+
+[2026.01.31-18.28.53:265][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2026.01.31-18.28.53:363][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 4.311038
+[2026.01.31-18.28.53:365][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.01.31-18.28.53:366][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4.409938
+[2026.01.31-18.28.53:470][  4]LogSourceControl: Uncontrolled asset enumeration finished in 0.494847 seconds (Found 7638 uncontrolled assets)
+[2026.01.31-18.28.54:369][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.01.31-18.28.55:035][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.747818
+[2026.01.31-18.28.55:036][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
+[2026.01.31-18.28.55:036][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.747818, Update Interval: 356.015503
+[2026.01.31-18.28.56:748][ 14]LogSlate: Took 0.000490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.01.31-18.28.56:771][ 14]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.31-18.28.58:213][ 94]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2026.01.31-18.28.58:214][ 94]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.01.31-18.29.00:522][270]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.01.31-18.29.00:522][270]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.01.31-18.29.35:528][ 19]LogFab: Display: Asset Type = unreal-engine
+[2026.01.31-18.29.35:528][ 19]LogFab: Display: Is Quixel = 0
+[2026.01.31-18.29.35:528][ 19]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir
+[2026.01.31-18.30.38:670][580]LogDerivedDataCache: C:/Users/d4-mckenzie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.31-18.34.47:340][325]LogDirectoryWatcher: Display: A directory notification failed for 'D:/MaskGame/MaskGaming/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.31-18.34.47:340][325]LogDirectoryWatcher: Display: A directory notification failed for 'D:/MaskGame/MaskGaming/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.31-18.34.47:340][325]LogDirectoryWatcher: Display: A directory notification failed for 'D:/MaskGame/MaskGaming/Content/Developers/D4mckenzie/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.31-18.34.51:344][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 362.390747
+[2026.01.31-18.34.52:019][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.31-18.34.52:019][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 363.058167, Update Interval: 316.829742

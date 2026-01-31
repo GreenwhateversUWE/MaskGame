@@ -1444,3 +1444,77 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2026.01.31-18.18.13:705][ 97]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
 [2026.01.31-18.18.13:707][ 97]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Scenes/Level1.Level1:PersistentLevel.ExponentialHeightFog_0
 [2026.01.31-18.18.13:707][ 97]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Scenes/Level1.Level1:PersistentLevel.ExponentialHeightFog_0
+[2026.01.31-18.18.41:438][ 78]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.31-18.18.43:441][277]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.31-18.18.43:508][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.31-18.18.44:374][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerBPs/VeilSpell/BP_Veil.BP_Veil
+[2026.01.31-18.18.44:374][364]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.31-18.18.44:540][364]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.31-18.18.45:283][364]LogSlate: Took 0.000703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.31-18.18.48:283][638]LogSlate: Window 'BP_Veil' being destroyed
+[2026.01.31-18.18.48:293][638]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.31-18.18.48:293][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-18.18.48:337][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.31-18.19.00:243][986]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2026.01.31-18.19.00:295][992]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2026.01.31-18.19.00:356][999]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2026.01.31-18.19.00:406][  5]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2026.01.31-18.19.03:468][363]LogDerivedDataCache: C:/Users/d4-mckenzie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.31-18.19.04:931][430]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.01.31-18.19.04:937][430]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 21 assets. Are you sure you want to continue?
+[2026.01.31-18.19.04:991][430]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.31-18.19.05:056][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.31-18.19.05:186][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_Bump.Stone_Wall_ujdiddfew_8K_Bump (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:228][430]LogTexture: Display: Building textures: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Displacement.Mossy_Stone_Floor_veilfjxn_8K_Displacement (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:289][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_Roughness.Stone_Wall_ujdiddfew_8K_Roughness (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:311][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_Gloss.Stone_Wall_ujdiddfew_8K_Gloss (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:316][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_Specular.Stone_Wall_ujdiddfew_8K_Specular (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:347][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_Cavity.Stone_Wall_ujdiddfew_8K_Cavity (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:448][430]LogTexture: Display: Building textures: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Bump.Mossy_Stone_Floor_veilfjxn_8K_Bump (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:591][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_Normal.Stone_Wall_ujdiddfew_8K_Normal (TFO_BC5, 8192x4096 x1x1x1) (Required Memory Estimate: 2304.999968 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:591][430]LogTexture: Display: Building textures: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_AO.Mossy_Stone_Floor_veilfjxn_8K_AO (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:617][430]LogTexture: Display: Building textures: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Gloss.Mossy_Stone_Floor_veilfjxn_8K_Gloss (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.05:661][430]LogTexture: Display: Building textures: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Cavity.Mossy_Stone_Floor_veilfjxn_8K_Cavity (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.08:105][430]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.31-18.19.08:182][430]LogUObjectGlobals: Force Deleting 26 Package(s):
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_BaseColor.Mossy_Stone_Floor_veilfjxn_8K_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Normal.Mossy_Stone_Floor_veilfjxn_8K_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Roughness.Mossy_Stone_Floor_veilfjxn_8K_Roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Specular.Mossy_Stone_Floor_veilfjxn_8K_Specular
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/StoneFloor.StoneFloor
+	Asset Type: Material
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Gloss.Mossy_Stone_Floor_veilfjxn_8K_Gloss
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Displacement.Mossy_Stone_Floor_veilfjxn_8K_Displacement
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Cavity.Mossy_Stone_Floor_veilfjxn_8K_Cavity
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Bump.Mossy_Stone_Floor_veilfjxn_8K_Bump
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_AO.Mossy_Stone_Floor_veilfjxn_8K_AO
+	Asset Type: Texture2D
+[2026.01.31-18.19.08:429][430]LogMaterial: Warning: [AssetLog] D:\MaskGame\MaskGaming\Content\Fab\StoneFloor\StoneFloor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.01.31-18.19.08:429][430]LogMaterial: Warning: StoneFloor: Requesting an invalid TextureIndex! (1 / 1)
+[2026.01.31-18.19.08:863][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_preview.tavern-wood-planks1_preview (TFO_AutoDXT, 900x900 x1x1x1) (Required Memory Estimate: 98.598969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.08:866][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_roughness.tavern-wood-planks1_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.08:872][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_metallic.tavern-wood-planks1_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.08:873][430]LogTexture: Display: Waiting for textures to be ready 4/20 (/Game/Fab/StoneFloor/Mossy_Stone_Floor_veilfjxn_8K_Gloss) ...
+[2026.01.31-18.19.08:897][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_normal-dx.tavern-wood-planks1_normal-dx (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.08:950][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_height.tavern-wood-planks1_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.09:036][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_ao.tavern-wood-planks1_ao (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.09:070][430]LogTexture: Display: Building textures: /Game/Fab/WoodText/tavern-wood-planks1_albedo.tavern-wood-planks1_albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.09:173][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_AO.Stone_Wall_ujdiddfew_8K_AO (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.09:336][430]LogTexture: Display: Building textures: /Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_BaseColor.Stone_Wall_ujdiddfew_8K_BaseColor (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2240.999969 MB), EncodeSpeed: Fast
+[2026.01.31-18.19.09:660][430]LogTexture: Display: Waiting for textures to be ready 18/20 (/Game/Fab/StoneWall/Stone_Wall_ujdiddfew_8K_BaseColor) ...
+[2026.01.31-18.19.09:937][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.31-18.19.09:950][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.31-18.19.09:962][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms

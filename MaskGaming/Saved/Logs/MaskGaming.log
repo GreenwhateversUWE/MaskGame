@@ -5244,3 +5244,17 @@ Sampler Limit: 32
 [2026.01.31-09.30.20:260][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2026.01.31-09.30.20:273][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2026.01.31-09.30.20:286][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.31-09.30.37:013][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3944.435303
+[2026.01.31-09.30.38:013][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.31-09.30.38:013][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3945.102051, Update Interval: 305.711243
+[2026.01.31-09.32.49:312][523]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.01.31-09.32.49:312][523]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.01.31-09.33.15:286][ 88]LogFab: Display: Asset Type = unreal-engine
+[2026.01.31-09.33.15:286][ 88]LogFab: Display: Is Quixel = 0
+[2026.01.31-09.33.15:286][ 88]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/BasicVFXb6bb8a7f5eabV1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/BasicVFXb6bb8a7f5eabV1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/BasicVFXb6bb8a7f5eabV1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/BasicVFXb6bb8a7f5eabV1/CloudDir
+[2026.01.31-09.33.19:333][281]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.31-09.33.19:340][281]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.31-09.33.20:218][330]LogSlate: Window 'Fab' being destroyed
+[2026.01.31-09.33.20:231][330]LogSlate: Window 'Fab' being destroyed
+[2026.01.31-09.33.21:726][437]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.01.31-09.33.21:726][437]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/75698e52-edfc-4f76-a86c-b4f26fcf5a29.

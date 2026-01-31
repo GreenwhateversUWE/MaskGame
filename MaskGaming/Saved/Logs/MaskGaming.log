@@ -10165,3 +10165,27 @@ Sampler Limit: 32
 [2026.01.31-10.28.00:209][647]LogContentBrowser: Attempting asset rename: NewFolder -> UIelements
 [2026.01.31-10.28.00:209][647]LogContentBrowser: End creating deferred item NewFolder
 [2026.01.31-10.28.07:672][ 69]LogContentBrowser: Attempting asset rename: UIelements -> UI
+[2026.01.31-10.29.04:346][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.31-10.29.04:353][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/TestLevel" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Scenes/TestLevel_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.31-10.29.04:360][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/TestLevel_Auto5
+[2026.01.31-10.29.04:360][472]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/TestLevel_Auto554A499374D16879C9D5EBC9F3A5FF608.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Scenes/TestLevel_Auto5.umap'
+[2026.01.31-10.29.04:362][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/TestLevel' took 0.131
+[2026.01.31-10.29.04:362][472]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2026.01.31-10.29.04:363][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Basic_VFX/Niagara/NS_Basic_1] ([1] browsable assets)...
+[2026.01.31-10.29.04:364][472]OBJ SavePackage:     Rendered thumbnail for [NiagaraSystem /Game/Basic_VFX/Niagara/NS_Basic_1.NS_Basic_1]
+[2026.01.31-10.29.04:365][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Basic_VFX/Niagara/NS_Basic_1]
+[2026.01.31-10.29.04:365][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Basic_VFX/Niagara/NS_Basic_1" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Basic_VFX/Niagara/NS_Basic_1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.01.31-10.29.04:462][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Basic_VFX/Niagara/NS_Basic_1_Auto5
+[2026.01.31-10.29.04:462][472]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/NS_Basic_1_Auto5F4217E7A4FFC472DAEBF96A9E3D9F776.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Basic_VFX/Niagara/NS_Basic_1_Auto5.uasset'
+[2026.01.31-10.29.04:463][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inputs/InputActions/IA_Menu] ([1] browsable assets)...
+[2026.01.31-10.29.04:463][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inputs/InputActions/IA_Menu]
+[2026.01.31-10.29.04:463][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Menu" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Inputs/InputActions/IA_Menu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.01.31-10.29.04:464][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inputs/InputActions/IA_Menu_Auto5
+[2026.01.31-10.29.04:464][472]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/IA_Menu_Auto526B0589048817C4AEBF939825476102D.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Inputs/InputActions/IA_Menu_Auto5.uasset'
+[2026.01.31-10.29.04:466][472]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerBPs/WBP_HUD] ([2] browsable assets)...
+[2026.01.31-10.29.04:468][472]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/PlayerBPs/WBP_HUD.WBP_HUD]
+[2026.01.31-10.29.04:468][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/WBP_HUD]
+[2026.01.31-10.29.04:468][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/WBP_HUD" FILE="D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/WBP_HUD_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.01.31-10.29.04:470][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerBPs/WBP_HUD_Auto5
+[2026.01.31-10.29.04:470][472]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/WBP_HUD_Auto5383F52C743FD5D77FDF95D8D3931BEFD.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/WBP_HUD_Auto5.uasset'
+[2026.01.31-10.29.04:471][472]LogFileHelpers: Auto-saving content packages took 0.109

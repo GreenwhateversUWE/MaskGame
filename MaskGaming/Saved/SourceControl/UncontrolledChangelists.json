@@ -10,10 +10,6 @@
 				"D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Interact.uasset",
 				"D:/MaskGame/MaskGaming/Content/Inputs/IMC_Default.uasset",
 				"D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Interact.uasset",
-				"D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Pickup.uasset",
-				"D:/MaskGame/MaskGaming/Content/Ancient_Ruins/Levels/Overview_BuiltData.uasset",
-				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/TorchMaterial.uasset",
-				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/source/phong4.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/source/Wall_Sconce_FBX.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/source/Torch.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/Medevial_Chest/source/medevial_chest/Material_001.uasset",
@@ -86,7 +82,15 @@
 				"D:/MaskGame/MaskGaming/Content/Fab/FBX/M_isoY.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/FBX/SM_ISOY.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/FBX/M_isoZ.uasset",
-				"D:/MaskGame/MaskGaming/Content/Fab/FBX/SM_ISOZ.uasset"
+				"D:/MaskGame/MaskGaming/Content/Fab/FBX/SM_ISOZ.uasset",
+				"D:/MaskGame/MaskGaming/Content/Fab/Medevial_Chest/ChestBottom.uasset",
+				"D:/MaskGame/MaskGaming/Content/PlayerBPs/BPI_Interact.uasset",
+				"D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_TorchLever.uasset",
+				"D:/MaskGame/MaskGaming/Content/PuzzlesAndObjects/BP_ActivatedObject.uasset",
+				"D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Pickup.uasset",
+				"D:/MaskGame/MaskGaming/Content/Ancient_Ruins/Levels/Overview_BuiltData.uasset",
+				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/TorchMaterial.uasset",
+				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/source/phong4.uasset"
 			]
 		}
 	]

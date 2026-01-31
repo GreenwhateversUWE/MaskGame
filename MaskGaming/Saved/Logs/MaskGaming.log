@@ -10189,3 +10189,40 @@ Sampler Limit: 32
 [2026.01.31-10.29.04:470][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerBPs/WBP_HUD_Auto5
 [2026.01.31-10.29.04:470][472]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/WBP_HUD_Auto5383F52C743FD5D77FDF95D8D3931BEFD.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/PlayerBPs/WBP_HUD_Auto5.uasset'
 [2026.01.31-10.29.04:471][472]LogFileHelpers: Auto-saving content packages took 0.109
+[2026.01.31-10.29.44:782][594]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.01.31-10.29.46:929][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.31-10.29.46:935][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-10.29.46:992][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/TestLevel" FILE="D:/MaskGame/MaskGaming/Content/Scenes/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.31-10.29.47:025][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.31-10.29.47:034][706]LogSavePackage: Moving output files for package: /Game/Scenes/TestLevel
+[2026.01.31-10.29.47:036][706]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/TestLevel6BE7A3E343DCD60F45C7ED976ED5CB03.tmp' to 'D:/MaskGame/MaskGaming/Content/Scenes/TestLevel.umap'
+[2026.01.31-10.29.47:050][706]LogFileHelpers: Saving map 'TestLevel' took 0.057
+[2026.01.31-10.29.47:050][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Basic_VFX/Niagara/NS_Basic_1] ([1] browsable assets)...
+[2026.01.31-10.29.47:050][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Basic_VFX/Niagara/NS_Basic_1]
+[2026.01.31-10.29.47:050][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Basic_VFX/Niagara/NS_Basic_1" FILE="D:/MaskGame/MaskGaming/Content/Basic_VFX/Niagara/NS_Basic_1.uasset" SILENT=true
+[2026.01.31-10.29.47:160][706]LogSavePackage: Moving output files for package: /Game/Basic_VFX/Niagara/NS_Basic_1
+[2026.01.31-10.29.47:161][706]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/NS_Basic_1A1CEA0C44E75232271DC099650E557EB.tmp' to 'D:/MaskGame/MaskGaming/Content/Basic_VFX/Niagara/NS_Basic_1.uasset'
+[2026.01.31-10.29.47:164][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inputs/InputActions/IA_Menu] ([1] browsable assets)...
+[2026.01.31-10.29.47:164][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inputs/InputActions/IA_Menu]
+[2026.01.31-10.29.47:164][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Menu" FILE="D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Menu.uasset" SILENT=true
+[2026.01.31-10.29.47:165][706]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Menu
+[2026.01.31-10.29.47:165][706]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/IA_Menu47F3C2724E97AB27DC1D1DAB90239773.tmp' to 'D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Menu.uasset'
+[2026.01.31-10.29.47:166][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerBPs/WBP_HUD] ([2] browsable assets)...
+[2026.01.31-10.29.47:166][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBPs/WBP_HUD]
+[2026.01.31-10.29.47:166][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBPs/WBP_HUD" FILE="D:/MaskGame/MaskGaming/Content/PlayerBPs/WBP_HUD.uasset" SILENT=true
+[2026.01.31-10.29.47:169][706]LogSavePackage: Moving output files for package: /Game/PlayerBPs/WBP_HUD
+[2026.01.31-10.29.47:169][706]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/WBP_HUDD26874564E522CF07A664FB54FA6649A.tmp' to 'D:/MaskGame/MaskGaming/Content/PlayerBPs/WBP_HUD.uasset'
+[2026.01.31-10.29.47:181][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 245.864 ms (total: 10.4 sec)
+[2026.01.31-10.29.47:250][706]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.31-10.29.47:250][706]LogContentValidation: Enabled validators:
+[2026.01.31-10.29.47:250][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-10.29.47:250][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-10.29.47:250][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-10.29.47:250][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-10.29.47:250][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-10.29.47:250][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-10.29.47:250][706]AssetCheck: /Game/Scenes/TestLevel Validating asset
+[2026.01.31-10.29.47:250][706]AssetCheck: /Game/Basic_VFX/Niagara/NS_Basic_1 Validating asset
+[2026.01.31-10.29.47:250][706]AssetCheck: /Game/Inputs/InputActions/IA_Menu Validating asset
+[2026.01.31-10.29.47:251][706]AssetCheck: /Game/PlayerBPs/WBP_HUD Validating asset
+[2026.01.31-10.29.47:838][738]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.

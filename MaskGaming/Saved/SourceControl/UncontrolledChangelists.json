@@ -102,6 +102,9 @@
 				"D:/MaskGame/MaskGaming/Content/PlayerBPs/BP_Spawn.uasset",
 				"D:/MaskGame/MaskGaming/Content/PlayerBPs/SpawnMat.uasset",
 				"D:/MaskGame/MaskGaming/Content/PlayerBPs/ActiveSpawnMat.uasset",
+				"D:/MaskGame/MaskGaming/Content/Basic_VFX/Niagara/NS_Basic_1.uasset",
+				"D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Menu.uasset",
+				"D:/MaskGame/MaskGaming/Content/PlayerBPs/WBP_HUD.uasset",
 				"D:/MaskGame/MaskGaming/Content/Inputs/InputActions/IA_Pickup.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/TorchMaterial.uasset",
 				"D:/MaskGame/MaskGaming/Content/Fab/Medieval_Torch/source/phong4.uasset"

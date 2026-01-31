@@ -5213,3 +5213,23 @@ Sampler Limit: 32
 [2026.01.31-09.15.42:128][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2026.01.31-09.15.42:142][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2026.01.31-09.15.42:156][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.31-09.16.12:066][756]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2026.01.31-09.16.12:079][756]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.01.31-09.16.14:648][912]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.01.31-09.16.14:648][912]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.01.31-09.17.08:459][529]LogFab: Display: Asset Type = unreal-engine
+[2026.01.31-09.17.08:459][529]LogFab: Display: Is Quixel = 0
+[2026.01.31-09.17.08:459][529]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/AncientR8a2a694ed918V1/CloudDir
+[2026.01.31-09.17.08:758][530]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 156530
+[2026.01.31-09.17.08:758][530]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.01.31-09.17.08:763][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.31-09.18.26:598][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3214.030273
+[2026.01.31-09.18.26:746][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.31-09.18.26:746][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3214.165039, Update Interval: 314.460266
+[2026.01.31-09.20.48:110][735]LogDirectoryWatcher: Display: A directory notification failed for 'D:/MaskGame/MaskGaming/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.31-09.20.48:110][735]LogDirectoryWatcher: Display: A directory notification failed for 'D:/MaskGame/MaskGaming/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.31-09.20.48:110][735]LogDirectoryWatcher: Display: A directory notification failed for 'D:/MaskGame/MaskGaming/Content/Developers/d4mckenzie/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.31-09.21.03:655][809]LogSlate: Window 'Fab' being destroyed
+[2026.01.31-09.21.03:667][809]LogSlate: Window 'Fab' being destroyed
+[2026.01.31-09.21.05:188][918]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.01.31-09.21.05:188][918]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/c6bd4209-8420-499f-99b7-f47b8492b2d1.

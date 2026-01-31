@@ -5182,3 +5182,26 @@ Sampler Limit: 32
 [2026.01.31-09.14.03:091][  9]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Medevial_Chest/ChestBottomText_Auto4
 [2026.01.31-09.14.03:091][  9]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/ChestBottomText_Auto461216022469DD86C89520BB1A50BBD1D.tmp' to 'D:/MaskGame/MaskGaming/Saved/Autosaves/Game/Fab/Medevial_Chest/ChestBottomText_Auto4.uasset'
 [2026.01.31-09.14.03:092][  9]LogFileHelpers: Auto-saving content packages took 0.026
+[2026.01.31-09.15.24:760][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.31-09.15.24:765][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.31-09.15.24:820][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/TestLevel" FILE="D:/MaskGame/MaskGaming/Content/Scenes/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.31-09.15.24:848][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.31-09.15.24:855][136]LogSavePackage: Moving output files for package: /Game/Scenes/TestLevel
+[2026.01.31-09.15.24:855][136]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/TestLevel1A76FF2E4C0ACC0CF66923BFBE809D4C.tmp' to 'D:/MaskGame/MaskGaming/Content/Scenes/TestLevel.umap'
+[2026.01.31-09.15.24:866][136]LogFileHelpers: Saving map 'TestLevel' took 0.046
+[2026.01.31-09.15.24:866][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Medevial_Chest/ChestBottomText] ([1] browsable assets)...
+[2026.01.31-09.15.24:866][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Medevial_Chest/ChestBottomText]
+[2026.01.31-09.15.24:866][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Medevial_Chest/ChestBottomText" FILE="D:/MaskGame/MaskGaming/Content/Fab/Medevial_Chest/ChestBottomText.uasset" SILENT=true
+[2026.01.31-09.15.24:913][136]LogSavePackage: Moving output files for package: /Game/Fab/Medevial_Chest/ChestBottomText
+[2026.01.31-09.15.24:914][136]LogSavePackage: Moving 'D:/MaskGame/MaskGaming/Saved/ChestBottomText94806CC04A20033CC5B6318606E677D7.tmp' to 'D:/MaskGame/MaskGaming/Content/Fab/Medevial_Chest/ChestBottomText.uasset'
+[2026.01.31-09.15.24:934][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.701 ms (total: 4.77 sec)
+[2026.01.31-09.15.24:986][136]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.31-09.15.24:986][136]LogContentValidation: Enabled validators:
+[2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.31-09.15.24:986][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.31-09.15.24:986][136]AssetCheck: /Game/Scenes/TestLevel Validating asset
+[2026.01.31-09.15.24:986][136]AssetCheck: /Game/Fab/Medevial_Chest/ChestBottomText Validating asset
